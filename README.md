@@ -23,7 +23,17 @@ Team: Nathan D Silva, Shawn Joseph, Shivang Srivastava, Zihua Tan
 <br>
 2. Obstacle avoidance
 <p align="center">
-  <img src="doc/5255.gif" width="400" height="300">
+  <img src="doc/obstacle.gif" width="400" height="300">
+</p>
+<br>
+
+**Object tracking System**
+<p align="center">
+  <img src="doc/Img_7139.gif" width="400" height="300">
+  <img src="doc/ML98.jpg" width="400" height="300">
+</p>
+<p align="center">
+ Object tracking system demo(left) and Object Detection result(right)
 </p>
 <br>
 
