@@ -1,5 +1,7 @@
-# Automatic-Waste-Segregator
-Designed and built a self-driving robot with a robotic arm to collect and sort the litter using the Robot Operating System (ROS)
+# Automatic Waste Segregator
+Designed and built a self-driving robot with a robotic arm to collect and sort the litter using the Robot Operating System (ROS).
+<br>
+Team: Nathan D Silva, Shawn Joseph, Shivang Srivastava, Zihua Tan
 
 <p align="center">
   <img src="doc/pasted image 0.png" width="400" height="300">
@@ -10,10 +12,20 @@ Designed and built a self-driving robot with a robotic arm to collect and sort t
 </p>
 
 
-# Demo videos
-[self driving system]<iframe width="560" height="315" src="https://www.youtube.com/embed/MJNODDp_rKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MJNODDp_rKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Demos
+**Self-driving System**
+<br>
+1. Exploration
+<p align="center">
+  <img src="doc/5255.gif" width="400" height="300">
+  <img src="doc/my_gif.gif" width="400" height="300">
+</p>
+<br>
+2. Obstacle avoidance
+<p align="center">
+  <img src="doc/5255.gif" width="400" height="300">
+</p>
+<br>
 
 # Project Introduction Video
 
