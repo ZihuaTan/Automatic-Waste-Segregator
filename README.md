@@ -37,4 +37,7 @@ Team: Nathan D Silva, Shawn Joseph, Shivang Srivastava, Zihua Tan
 </p>
 <br>
 
+***Youtube link***
+<br>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kFhRI5PQ3SM/0.jpg)](https://www.youtube.com/watch?v=kFhRI5PQ3SM&list=PLtD1Er3yIlAnX1aeoX8usoeKZxD8Md0nm)
 
