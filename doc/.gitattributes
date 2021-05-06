@@ -1,7 +1,4 @@
 IMG_7139.MOV filter=lfs diff=lfs merge=lfs -text
 5255.MP4 filter=lfs diff=lfs merge=lfs -text
 self-driving-v2.mp4 filter=lfs diff=lfs merge=lfs -text
-5255.gif filter=lfs diff=lfs merge=lfs -text
-Img_7139.gif filter=lfs diff=lfs merge=lfs -text
 self-driving.gif filter=lfs diff=lfs merge=lfs -text
-obstacle.gif filter=lfs diff=lfs merge=lfs -text
