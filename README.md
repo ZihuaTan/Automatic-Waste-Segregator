@@ -15,6 +15,8 @@ Team: Nathan D Silva, Shawn Joseph, Shivang Srivastava, Zihua Tan
 # Demos
 **Self-driving System**
 <br>
+Implemented the self-driving system using ROS Navigation stack and Exploration package.
+<br>
 1. Exploration
 <p align="center">
   <img src="doc/5255.gif" width="400" height="300">
@@ -28,6 +30,11 @@ Team: Nathan D Silva, Shawn Joseph, Shivang Srivastava, Zihua Tan
 <br>
 
 **Object tracking System**
+<br>
+Implemented object tracking system with a Time-of-Flight sensor and a camera to track and collect the litter.
+<br>
+Used TensorFlow Object Detection API to identify the litter.
+<br>
 <p align="center">
   <img src="doc/Img_7139.gif" width="400" height="300">
   <img src="doc/ML98.jpg" width="400" height="300">
